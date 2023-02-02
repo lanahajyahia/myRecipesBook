@@ -5,8 +5,6 @@ our final project android app is a recipe app that has the following features:
 1. Upload Image recipe from gallery and save them to firebase storage 
 each user that uses the app can upload a recipe imgae from their gallery to the app and it will be saved in an Image slider
 
-
- ![Alt text](C:\Users\DELL\Downloads\WhatsApp Image 2021-07-20 at 15.50.08.png)
  
  
 2. Create own recipe by adding the following details:
